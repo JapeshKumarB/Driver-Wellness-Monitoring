@@ -1,0 +1,10 @@
+opencv-python
+dlib
+imutils
+face_recognition
+deepface
+pyttsx3
+streamlit
+scipy
+numpy
+pandas
